@@ -1,0 +1,53 @@
+
+li {
+    list-style: none;
+    float: left;
+    margin: 0ch;
+    padding: 3%;
+    display: block;
+    font-family: "Kanit", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    background-color: white;
+    color: black;
+}
+
+
+ .icono {
+    border-radius: 35px;
+    background-color: #eeeeee;
+    color: #989898;
+    padding-top: 3%;
+    padding-left: 1%;
+    width: 430px;
+}
+
+
+.cab {
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 10%;
+}
+
+
+.logo {
+    position: absolute;
+    z-index: 2;
+    text-align: center;
+    padding: 2%;
+    top: -15px;
+}
+
+
+ main{ 
+    display: grid;
+    grid-template-columns:  25% 25% 25% 25%;
+ }
+
+ 
+.pics {
+    padding: 5%;
+}
+
+
